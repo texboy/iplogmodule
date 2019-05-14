@@ -45,4 +45,4 @@ php bin/magento module:enable Teste_IpLog
 ## Testando o mudulo
 
 Para testar o modulo basta entrar na pagina do Magento e abrir o debug log (locazilado na pasta `/<raiz-magento>/var/log/debug.log` )
-![Alt text](/../<master>/pic1.png?raw=true "Optional Title")
+![Screenshot](screenshot.png)
